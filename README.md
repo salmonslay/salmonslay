@@ -12,7 +12,7 @@ Winner of Gamers' Choice in the Swedish Game Awards 2024 🏅
   Read
 </summary>
 
-  *This list is not complete. Only topics I've used extensively are listed - not 
+  *This list is not complete. Only topics I've used extensively are listed.
   ## Languages
   * C# (.NET environments & Unity)
   * C++ 
