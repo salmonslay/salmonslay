@@ -2,7 +2,7 @@
 ![name-light](https://github.com/user-attachments/assets/eb8f0333-44ed-4163-84b2-f6c4f2df9154#gh-dark-mode-only)
 ![name-dark](https://github.com/user-attachments/assets/1d80f3ad-7dc0-4339-9045-066a31a68686#gh-light-mode-only)
 
-Hi! I'm a game developer at [Filimundus](https://www.filimundus.se/en/), creating fun and challenging games for kids. I am proficient in C# (both through .NET environments & Unity) and C++, and I also have quite some experience in areas such as web development (focus backend with Node), SQL and general hardware. I do not use this account at work; all repositories and contributions are personal.
+Hi! I'm a Lead Game Developer at [Filimundus](https://www.filimundus.se/en/), creating fun and challenging games for kids. I am proficient in C# (both through .NET environments & Unity) and C++, and I also have quite some experience in areas such as web development (focus backend with Node), SQL and general hardware. I do not use this account at work; all repositories and contributions are personal.
 
 Winner of Gamers' Choice in the Swedish Game Awards 2024 🏅
 
@@ -21,8 +21,8 @@ Winner of Gamers' Choice in the Swedish Game Awards 2024 🏅
   * Java
 
   ## Frameworks / Engines
-  * Node.js
   * Unity
+  * Node.js
   * Express
   * SDL2
   * MySQL
@@ -39,7 +39,13 @@ Winner of Gamers' Choice in the Swedish Game Awards 2024 🏅
   * Apple App Store
   * Amazon Appstore
   * Steamworks
+  * Nintendo Switch
+  * Epic Games Store Mobile
+
+  ## Other
+  * AWS
+  * Google Cloud
 </details>
 
 # Contact
-Feel free to contact me at [hi@sofia.kiwi](mailto:hi@sofia.kiwi) or Discord @salmonslay.
+Feel free to contact me at [hi@sofia.kiwi](mailto:hi@sofia.kiwi).
